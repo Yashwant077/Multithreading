@@ -40,3 +40,21 @@ int main(){
 
   return 0;
 }
+
+/*
+Output:
+main begins 
+9 Yashwant Kr. Choudhary
+8 Yashwant Kr. Choudhary
+7 Yashwant Kr. Choudhary
+6 Yashwant Kr. Choudhary
+5 Yashwant Kr. Choudhary
+4 Yashwant Kr. Choudhary
+3 Yashwant Kr. Choudhary
+2 Yashwant Kr. Choudhary
+1 Yashwant Kr. Choudhary
+0 Yashwant Kr. Choudhary
+thread execution finished
+main ends
+
+*/
